@@ -46,7 +46,16 @@ To install the web application on your desktop, click on the "Install" button, a
 ## Demonstration:
 
 1. **Home Page** 
-![name](/assets/)
+![home](./assets/homeScreen.png)
+
+2. **How to Install the App From Your Browser**
+
+
+3. **How to Open JATE from VS Code**
+
+
+4. **Save Your Work**
+
 
 
 ## Contributions: 

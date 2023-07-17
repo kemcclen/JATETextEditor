@@ -51,10 +51,22 @@ To install the web application on your desktop, click on the "Install" button, a
 2. **How to Install the App From Your Browser**
 
 
+https://github.com/kemcclen/JATETextEditor/assets/123762040/243322b1-7f1f-4468-a62a-a5ecee30ade4
+
+
+
 3. **How to Open JATE from VS Code**
 
 
+https://github.com/kemcclen/JATETextEditor/assets/123762040/02f1e985-ec14-4c9c-936e-121a4ee511b0
+
+
+
 4. **Save Your Work**
+
+
+https://github.com/kemcclen/JATETextEditor/assets/123762040/037c1ff0-c73f-415b-806c-a2b75127c516
+
 
 
 

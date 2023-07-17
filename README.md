@@ -88,4 +88,4 @@ JATE is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 _The MIT License is a permissive open-source license that allows you to use, modify, and distribute the project for both commercial and non-commercial purposes. It provides you with the freedom to customize the application to suit your needs._
 
-_By contributing to TastyBytes, you agree that your contributions will be licensed under the same MIT License. This ensures that the project remains open-source and accessible to the community._
+_By contributing to JATE, you agree that your contributions will be licensed under the same MIT License. This ensures that the project remains open-source and accessible to the community._

@@ -90,8 +90,8 @@ Please note that by submitting a pull request, you agree to allow the project ma
 Thank you for considering contributing to JATE. Your contributions are highly appreciated!
 
 ## Links: 
-- Repository: 
-- Deployed Application: 
+- Repository: https://github.com/kemcclen/JATETextEditor
+- Deployed Application: https://jate-the-great-54ad32f67b8f.herokuapp.com/
 
 
 ## Technologies
